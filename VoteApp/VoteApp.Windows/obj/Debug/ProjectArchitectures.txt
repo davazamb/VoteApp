@@ -1,0 +1,2 @@
+C:\Users\davaz\Source\Repos\VoteApp\VoteApp\VoteApp.Windows\VoteApp.Windows.csproj;neutral
+C:\Users\davaz\Source\Repos\VoteApp\VoteApp\VoteApp\VoteApp.csproj;neutral
